@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ubuntu: Ubuntu;
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+  --font-size-26xl: 45px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #111;
+  --color-gray-200: rgba(0, 0, 0, 0.5);
+  --color-rosybrown: #957554;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}
